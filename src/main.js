@@ -49,7 +49,6 @@ app.innerHTML = `
               <p class="certificate-kicker">Osallistumistodistus</p>
               <h2 class="certificate-title">ELVYTYS-MET<br /><em>2026</em></h2>
               <div class="certificate-divider"></div>
-              <p class="certificate-text">Tällä todistetaan, että</p>
               <p class="recipient-name" id="recipient-name">Etunimi Sukunimi</p>
               <p class="certificate-text certificate-text--lower">on osallistunut valtakunnalliseen<br />ELVYTYS-MET 2026 -symposiumiin.</p>
               <p class="certificate-details">29.10.2026–30.10.2026 · Helsinki</p>
